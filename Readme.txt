@@ -3,4 +3,4 @@ This me ,owner of this repo, writting this.
 im practicing how to this git thing.
 and most importantly i wrote this in vi.pardon for the words and spellings.
 
-#Now im using og notepad.
+#Now im using og notepad.hi
